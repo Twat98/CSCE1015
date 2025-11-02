@@ -5,3 +5,7 @@ Assignment repository for UNT CSCE1015
 trw0209
 ## Favorite Linux Command
 ls -la
+## EUID
+trw0209
+## Favorite Linux Command
+ls -la
